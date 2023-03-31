@@ -1,6 +1,6 @@
 Name:		texlive-beamertheme-detlevcm
 Version:	39048
-Release:	1
+Release:	2
 Summary:	A beamer theme designed for use in the University of Leeds
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/beamertheme-detlevcm
