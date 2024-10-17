@@ -3,7 +3,7 @@ Version:	39048
 Release:	2
 Summary:	A beamer theme designed for use in the University of Leeds
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/beamertheme-detlevcm
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/beamertheme-detlevcm
 License:	gpl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/beamertheme-detlevcm.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/beamertheme-detlevcm.doc.r%{version}.tar.xz
